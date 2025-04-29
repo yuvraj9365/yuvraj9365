@@ -1,5 +1,8 @@
-## Hey everyone 👋, I'm Yuvraj Nath Chouhan
+<h1 align="center"> Hey everyone 👋, I'm Yuvraj Nath Chouhan </h1>
 
+<div align="center">
+  <img src="https://github.com/yuvraj9365/yuvraj9365" alt="yuvraj">
+</div>
 <!--
 **yuvraj9365/yuvraj9365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
