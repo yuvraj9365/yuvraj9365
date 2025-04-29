@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey everyone 👋, I'm Yuvraj Nath Chouhan
 
 <!--
 **yuvraj9365/yuvraj9365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
