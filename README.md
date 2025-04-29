@@ -29,7 +29,33 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
+### 👨‍💼 About Me
+🚀 Aspiring DevOps & DevSecOps Engineer | Cloud DevOps (Azure & AWS) | Automation & Security Champion | Passionate Learner🌐
 
+Hi, I’m Yuvraj! 🔥 I'm embarking on an exciting journey in the world of DevOps & DevSecOps, armed with hands-on expertise and a drive to excel. From automating tasks to building robust CI/CD pipelines, I’m dedicated to turning complex challenges into efficient and secure solutions.
+
+What I Bring to the Table:
+●Linux & Shell Scripting 🖥️ Automating processes and mastering command-line operations.
+
+●Git & Git Branching 🔀 Seamless version control for effective collaboration.
+
+●Build Tools 🔧 (Maven & npm) Crafting stable builds for quality software.
+
+●CI/CD Tools 🚄 (Jenkins, GitHub Actions, Azure DevOps, GitLab CI/CD) Ensuring smooth & automated deployments.
+
+●Security in DevOps 🛡️ Embedding security at every stage to safeguard development processes.
+
+●Artifact Management 📦 (Nexus & Azure Artifacts) Managing software versions efficiently.
+
+●Containerization & Orchestration 🐳⎈ (Docker & Kubernetes) Deploying scalable, agile applications.
+
+●Infrastructure as Code (IaC) 📜 (Terraform & Ansible) Automating environment provisioning.
+
+●Monitoring & Troubleshooting 🔍 Keeping systems in check with proactive issue resolution.
+
+●Real-world & Corporate Projects 🌟 Hands-on experience with practical implementations.
+
+✨ Always eager to learn, collaborate, and innovate! ✨ I’m ready to transform my academic knowledge and project experiences into real-world impact. Let’s connect and explore how we can drive meaningful change together! 🤝
 <!--
 **yuvraj9365/yuvraj9365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
