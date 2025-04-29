@@ -4,6 +4,10 @@
   <img src="https://github.com/yuvraj9365/yuvraj9365/blob/main/banner.jpg" alt="yuvraj">
 </div>
 <h3 align="center">🚀 Aspiring DevOps & DevSecOps Engineer | ☁️ Cloud (Azure & AWS) | 🖥️ Linux & 🔀 Git | 🚄 CI/CD | 🐳 Docker & ⎈ Kubernetes | 📜 Terraform & Ansible | 🔐 Building Secure & Scalable DevOps | 🔧 Automation Enthusiast  <a href="https://www.linkedin.com/in/yuvraj-nath-chouhan-934460240" target="_blank">Yuvraj Nath Chouhan</a></h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/yuvraj-nath-chouhan-934460240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+</p>
 <!--
 **yuvraj9365/yuvraj9365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
