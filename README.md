@@ -3,6 +3,7 @@
 <div align="center">
   <img src="https://github.com/yuvraj9365/yuvraj9365/blob/main/banner.jpg" alt="yuvraj">
 </div>
+<h3 align="center">🚀 Aspiring DevOps & DevSecOps Engineer | ☁️ Cloud (Azure & AWS) | 🖥️ Linux & 🔀 Git | 🚄 CI/CD | 🐳 Docker & ⎈ Kubernetes | 📜 Terraform & Ansible | 🔐 Building Secure & Scalable DevOps | 🔧 Automation Enthusiast<a href="https://www.linkedin.com/in/yuvraj-nath-chouhan-934460240" target="_blank">Yuvraj Nath Chouhan</a></h3>
 <!--
 **yuvraj9365/yuvraj9365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
