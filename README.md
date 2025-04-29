@@ -29,7 +29,7 @@
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
 </p>
-### 👨‍💼 About Me
+<h4 align="left">👨‍💼 About Me:</h3>
 🚀 Aspiring DevOps & DevSecOps Engineer | Cloud DevOps (Azure & AWS) | Automation & Security Champion | Passionate Learner🌐
 
 Hi, I’m Yuvraj! 🔥 I'm embarking on an exciting journey in the world of DevOps & DevSecOps, armed with hands-on expertise and a drive to excel. From automating tasks to building robust CI/CD pipelines, I’m dedicated to turning complex challenges into efficient and secure solutions.
